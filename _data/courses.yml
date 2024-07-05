@@ -1,4 +1,18 @@
 course_list:
+  - title: "BME 302: Fundamentals of Biomaterials and Biomechanics" 
+    institution: Duke University
+    contents:
+      - title: Lab Teaching Assistant
+        year: Spring 2024
+        description:
+          - Assisted students during class lab sections.
+          - Graded pre-labs and lab reports.
+          - Ran introductory MATLAB/Python/Lab Safety bootcamp.
+      - title: Feedback from students
+        description:
+            - '"Mitchell was my favorite TA I have ever had. He was extremely knowledgeable but also very kind and always wiling to help in any way he could."'
+            - '"Super helpful with any questions about homework or labs. He was also always available if you just needed to talk. All around 5 star TA."'
+            - '"Stellar TA, one of my favorites all time"'
   - title: "BME 590: Neurotrauma"
     institution: Duke University
     contents:

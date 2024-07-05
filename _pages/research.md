@@ -3,54 +3,34 @@ layout: page
 permalink: /research
 title: Research
 description: 
-nav: true
+nav: false
 nav_order: 4
 toc:
   sidebar: left
 social: true
 ---
 
-## Current Research Focus
-I study the organizational dynamics of religious congregations, the interconnection between
-religion and inequality, the interplay between work and physical and emotional health, and the
-social dynamics of survey research. Along with historical and mixed-methods approaches, my
-research leverages advances in computational methods in the social sciences to more accurately
-model social processes.
-In my dissertation, I explore the causes and consequences of a major trend in American religion–
-the concentration of people into very large churches. In a forthcoming article in the Journal of Social
-History, I challenge the perception of so-called megachurches as new and fleeting organizations.
-Additionally, I uncover that member participation declines with congregational size. Finally, in an
-article published in Research in the Sociology of Work, I demonstrate that church size is positively
-correlated with a congregation’s socio-economic status composition. This has the important
-consequence that the concentration of people into very large churches may actually serve to
-increase economic stratification in the United States.
-Other published research explores the theoretical connections between religion and inequality. In
-an article published in the Journal for the Scientific Study of Religion, I argue that research on religion
-and inequality must carefully consider how multiple identity categories combine, overlap and
-intersect to impact consequential outcomes. In a Cambridge University Press volume, I use a
-mixed-methods approach to highlight the variable ways in which religion, gender and ethnicity
-interact to influence social inequality. Here, I find that Arab American women show the surprising
-pattern of high levels of religiosity and high levels of education, but very low employment.
-My research in quantitative methodology covers broad territory. In an article in Social Networks, I
-uncover important methodological considerations when implementing name generator questions
-on web-based surveys and in panel designs. I find strong evidence of panel conditioning, even
-with waves spaced 2 years apart. This study presses researchers to consider how the visual display
-of web-questionnaires may exert a major influence on network characteristics.
-Capitalizing on the gains offered by new statistical methods also motivates my research. For
-example, in an article in the American Journal of Agricultural Economics, I develop a spatially and
-temporally conditioned hierarchical growth curve model of the effect of a government land-use
-policy on the price of farmland over a 35-year period. This article demonstrates the flexibility that
-Bayesian methods offer by modeling the response of land prices to environmental policy initiatives.
-I have also adapted Bayesian methods to a Heckman selection model to examine the correlates of
-charitable giving. Giving has a highly irregular distribution that even zero-inflated models cannot
-accommodate. In other research, I am using longitudinal structural equation modeling to explore
-the prospective relationships between depression and the precursors of cardio-vascular disease
-among clergy.
-My future research will expand more deeply into the occupational determinants of health. I plan to
-study how emotional and religious resources buffer occupational stress; the ways in which
-professional networks impact health; and how institutional racism effects minorities in
-majority-white contexts. In another branch of my research, I will use the Health and Retirement
-Survey to study how religiosity changes over the life-course. I am especially interested in how
-these patterns might differ by race. In addition, I have begun preliminary discussions with an
-academic press to adapt my work on megachurches into a book. Methodologically, I will continue
-to utilize state-of-the-art statistical techniques to improve the inferential capacity of data
+## Research Accomplishments
+I study head injuries across multiple domains, with an interest in sex differences in injury outcomes. Head and brain injuries are a significant public health issue that affect individuals worldwide and encompass a wide range of injury types and severities. Traumatic head and brain injuries are a common injury observed in sports and motor vehicle crashes (MVC). Despite decades of dedicated research, the fundamental underlying causes of traumatic brain injuries (TBI) remain poorly understood. My research interests revolve around understanding the environments where TBI occurs.
+
+My dissertation research focused on four core projects: 
+
+1. Sex differences in motor vehicle crash (MVC) outcomes
+2. Biofidelity of instrumented mouthguards for head impact monitoring
+3. Epidemiology of head impact exposure in Muay Thai
+4. Assessment of common injury metrics during non-injurious head impacts
+
+### **Sex Differences in Motor Vehicle Crashes**
+Motor vehicle accidents are one of the leading causes of mortality worldwide, particularly for individuals under the age of 35. While advanced vehicle safety technologies have successfully reduced fatality rates in new vehicles, these advancements have not been equitable. My research focused on examining sex differences in vehicle safety outcomes, and determined that young females, between the ages of 20-40, are at increased risk of death, specifically due to head injuries, compared to males. 
+
+This research was recognized by the International Research Council on the Biomechanics of Injury in 2022 with the Gundolf Beier Award, highlighting research with a high potential to influence the field of traffic safety.
+
+### **Biofidelity of Instrumented Mouthguards**
+Instrumented mouthguard systems (iMGs) such as the Prevent Biometrics iMG are increasingly prevalent in field studies of head impact exposure, particularly in martial arts studies. As part of a collaborative study between Duke University and Wayne State University, two instrumented mouthguard systems were evaluated through helmeted cadaver head impacts, as well as direct mandible impacts with a boxing-style impactor. My research focused on examining the results from the helmeted impacts, and found that commonly used validation procedures focused on anthropomorphic test device (ATD) testing are insufficient for fully assessing the biofidelity of wearable kinematic measurement systems.
+
+### **Epidemiology of Head Impact Exposure in Muay Thai**
+Sports-related head injuries are a major public health issue, and account for a large percentage of TBI-related emergency department visits annually. While much of the concussion literature and public discourse has historically focused on American football, concussions are not solely a football-related issue. Martial Arts are 
+
+### **Common Injury Metrics During Non-Injurious Head Impacts**
+
+

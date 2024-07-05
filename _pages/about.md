@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a recently-graduated biomechanist currently working in the Duke University Injury Biomechanics Lab, where I work with Dr. Jason Luck, and formerly Dr. Cameron R. 'Dale' Bass (now at Wayne State University). My research interests center around both sex differences in injuries and fatalities as well as concussions and brain injuries in sports. 
+I am a biomechanist currently with the Duke University Injury Biomechanics Lab, where I work with Dr. Jason Luck, and formerly Dr. Cameron R. 'Dale' Bass (now at Wayne State University). My research interests center around sex differences in injuries and fatalities as well as concussions and brain injuries in sports. 
 
 My research on sex differences in motor vehicle fatalities was recognized 
 with the Gundolf Beier Award by the International Research Council on the 
@@ -28,4 +28,4 @@ potential to influence the field of traffic safety. Recently, I was
 invited to a workgroup meeting of the UN ECE GRSP Informal Working Group 
 on Equitable Occupant Protection to discuss some of this work as well.
 
-Currently, I am an instructional teaching assistant for BME 590: Neurotrauma. 
+Most recently, I served as a laboratory teaching assistant for BME 302: Fundamentals of Biomaterials and Biomechanics. 
