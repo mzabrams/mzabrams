@@ -4,10 +4,11 @@
     - name: Full Name
       value: Mitchell Z Abrams, PhD
     - name: Current Role
-      value: PhD Candidate, Duke University
+      value: Biomechanics Researcher
+    - name: Location
+      value: Duke University Injury Biomechanics Laboratory
     - name: E-Mail
       value: mitchell.abrams@duke.edu
-    - name: 
 
 - title: Education
   type: time_table
