@@ -49,6 +49,7 @@ table.table a {
 }
 
 .table-dark {
+ color: var(--global-text-color);
   background-color: transparent;
   &.table-bordered {
     border: 1px solid var(--global-divider-color) !important;
@@ -667,30 +668,37 @@ footer.sticky-bottom {
 
   h2.bibliography {
     color: var(--global-divider-color);
-    border-top: 1px solid var(--global-divider-color);
-    padding-top: 1rem;
-    margin-top: 2rem;
+    border-bottom: 1px solid var(--global-divider-color);
+    padding-top: 0rem;
+    margin: 0 0 0.5 em;
     text-align: right;
+    position: relative;
+    top: -1.25em;
   }
 
   ol.bibliography {
     list-style: none;
     padding: 0;
-    margin-top: 0;
+    margin-top: -2rem;
 
     li {
       margin-bottom: 1rem;
 
       .preview {
+        width: 100%;
+        min-width: 80px;
+        max-width: 200px;
       }
 
       .abbr {
+        height: 2rem;
         margin-bottom: 0.5rem;
 
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
-          margin-bottom: 0.5rem;
+          padding-left: 1rem;
+          padding-right: 1rem;
 
           a {
             color: white;
