@@ -52,7 +52,7 @@
       year: 2020-Present
 
 
-    - title: Open Source Projects
+- title: Open Source Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/mzabrams/fars_cleaner">fars_cleaner</a>
